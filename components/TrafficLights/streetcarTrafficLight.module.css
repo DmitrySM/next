@@ -1,0 +1,13 @@
+.box {
+    position: relative;
+    width: 180px;
+    height: 120px;
+}
+
+.topRow {
+    display: flex;
+}
+
+.bottomRow {
+    padding-left: 60px;
+}

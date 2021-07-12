@@ -1,0 +1,15 @@
+.box {
+    width: 60px;
+    height: 60px;
+    padding: 10px;
+    background-color: darkgrey;
+    border: 1px solid darkslategray;
+}
+
+.lamp {
+    height: 40px;
+    width: 40px;
+    background-color: #ece6e6;
+    border-radius: 50%;
+    display: inline-block;
+}
